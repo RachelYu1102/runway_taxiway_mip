@@ -1,0 +1,9 @@
+heavy,heavy,60
+heavy,large,90
+heavy,small,120
+large,heavy,60
+large,large,60
+large,small,90
+small,heavy,60
+small,large,60
+small,small,60

@@ -1,0 +1,9 @@
+jet,jet,90
+jet,heavy,120
+jet,medium,180
+heavy,jet,90
+heavy,heavy,90
+heavy,medium,120
+medium,jet,90
+medium,heavy,90
+medium,medium,90

@@ -1,0 +1,5 @@
+compact/1_Evening_T3South_6_compact.csv, cpu 59.14, obj 234.0, mps 2, gap 0.0
+compact/1_Evening_T3South_6_compact.csv, cpu 60.55, obj 234.0, mps 2, gap 0.0
+compact/2_Evening_T3South_6_compact.csv, cpu 8.73, obj 187.0, mps 2, gap 0.0
+compact/1_Evening_T3South_6_compact.csv, cpu 7.51, obj 234.0, mps 2, gap 0.0
+compact/1_Evening_T3South_6_compact.csv, cpu 7.49, obj 234.0, mps 2, gap 0.0

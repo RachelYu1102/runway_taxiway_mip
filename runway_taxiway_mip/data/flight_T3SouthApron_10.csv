@@ -1,0 +1,10 @@
+d1,g1,ey1,360,large,60
+d2,g2,ey1,240,heavy,60
+d3,g3,ey2,300,small,60
+d4,g4,ey1,360,large,60
+d5,g5,ey1,240,heavy,60
+a1,ex1,g1,0,large,0
+a2,ex1,g2,70,heavy,0
+a3,ex2,g3,150,small,0
+a4,ex1,g4,210,large,0
+a5,ex1,g5,280,heavy,0

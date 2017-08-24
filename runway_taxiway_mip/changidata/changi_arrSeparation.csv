@@ -1,0 +1,9 @@
+jet,jet,98
+jet,heavy,151
+jet,medium,176
+heavy,jet,98
+heavy,heavy,102
+heavy,medium,127
+medium,jet,74
+medium,heavy,77
+medium,medium,77
